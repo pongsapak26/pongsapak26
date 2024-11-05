@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Pongsapak and I'm a Frontend Developer</p>
+<p align="center"></p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Flutter<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Flutter</p>
 
 ###
 
