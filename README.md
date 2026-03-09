@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:0a1628&height=140&section=header&text=&fontColor=00BFFF&fontSize=62&fontAlignY=55&desc=Software%20Developer&descAlignY=80&descColor=4FC3F7&descSize=18" width="100%" />
-</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Building+cool+stuff+%F0%9F%94%A5;Always+learning+something+new+%E2%9A%A1" alt="Typing SVG" />
