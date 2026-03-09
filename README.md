@@ -1,18 +1,42 @@
-# 💫 About Me:
-About Me<br>👋 Hi there! I'm a Software Developer passionate about creating innovative solutions and building impactful projects. With expertise in full-stack web development, RESTful API design, and IoT integration, I enjoy tackling challenges and bringing ideas to life.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:0a1628&height=140&section=header&text=PONGSAPAK&fontColor=00BFFF&fontSize=62&fontAlignY=55&desc=Software%20Developer&descAlignY=80&descColor=4FC3F7&descSize=18" width="100%" />
+</div>
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/PONGSAPAKNOOF) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pongsapakf) 
-
-# 💻 Tech Stack:
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=pongsapak26&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pongsapak26&theme=react&hide_border=false)<br/> -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pongsapak26&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Building+cool+stuff+%F0%9F%94%A5;Always+learning+something+new+%E2%9A%A1" alt="Typing SVG" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pongsapak26&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pongsapak26&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d0d0d&title_color=00BFFF&text_color=4FC3F7&icon_color=00BFFF" width="360" />
+
+### `> whoami`
+
+```txt
+Hi, I'm Pongsapak — a dev who builds things
+that (sometimes) work on the first try.
+
+Passionate about web, mobile, and whatever's
+cool this week.
+```
+
+### 🌐 Socials
+
+[![Facebook](https://img.shields.io/badge/Facebook-%230d0d0d.svg?style=flat-square&logo=Facebook&logoColor=00BFFF)](https://facebook.com/PONGSAPAKNOOF)
+[![Instagram](https://img.shields.io/badge/Instagram-%230d0d0d.svg?style=flat-square&logo=Instagram&logoColor=00BFFF)](https://instagram.com/pongsapakf)
+
+### 💻 Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%230d0d0d.svg?style=flat-square&logo=javascript&logoColor=00BFFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-%230d0d0d.svg?style=flat-square&logo=typescript&logoColor=4FC3F7)
+![PHP](https://img.shields.io/badge/PHP-%230d0d0d.svg?style=flat-square&logo=php&logoColor=00BFFF)
+![HTML5](https://img.shields.io/badge/HTML5-%230d0d0d.svg?style=flat-square&logo=html5&logoColor=4FC3F7)
+![CSS3](https://img.shields.io/badge/CSS3-%230d0d0d.svg?style=flat-square&logo=css3&logoColor=00BFFF)
+
+<br clear="right"/>
+
+---
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=pongsapak26&icon=0&color=9" />
+</div>
