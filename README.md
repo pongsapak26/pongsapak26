@@ -27,13 +27,5 @@ cool this week.
 ![JavaScript](https://img.shields.io/badge/JavaScript-%230d0d0d.svg?style=flat-square&logo=javascript&logoColor=00BFFF)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%230d0d0d.svg?style=flat-square&logo=typescript&logoColor=4FC3F7)
 ![PHP](https://img.shields.io/badge/PHP-%230d0d0d.svg?style=flat-square&logo=php&logoColor=00BFFF)
-![HTML5](https://img.shields.io/badge/HTML5-%230d0d0d.svg?style=flat-square&logo=html5&logoColor=4FC3F7)
-![CSS3](https://img.shields.io/badge/CSS3-%230d0d0d.svg?style=flat-square&logo=css3&logoColor=00BFFF)
 
 <br clear="right"/>
-
----
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=pongsapak26&icon=0&color=9" />
-</div>
