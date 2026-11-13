@@ -10,6 +10,7 @@
 
 <a href="https://facebook.com/PONGSAPAKNOOF"><img src="assets/s-facebook.svg" height="48" alt="Facebook" /></a>
 <a href="https://instagram.com/pongsapakf"><img src="assets/s-instagram.svg" height="48" alt="Instagram" /></a>
+<a href="https://www.linkedin.com/in/pongsapak-premsumran-696855419/"><img src="assets/s-linkedin.svg" height="48" alt="LinkedIn" /></a>
 
 <img src="assets/h-stats.svg" width="100%" alt="top languages" />
 
