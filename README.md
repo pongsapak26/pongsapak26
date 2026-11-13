@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:00BFFF&height=180&section=header&text=PONGSAPAK&fontSize=56&fontColor=E1F5FE&fontAlignY=40&animation=fadeIn&desc=Full-Stack%20Developer&descAlignY=60&descColor=4FC3F7" alt="header" />
+  <img src="assets/hero.svg" width="100%" alt="PONGSAPAK - Full-Stack Developer" />
 </p>
 
 <p align="center">

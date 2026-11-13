@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="240" viewBox="0 0 880 240" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#00BFFF" stroke-opacity="0.07"/>
+    </pattern>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#00BFFF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#00BFFF" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#00BFFF" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="typeclip">
+      <rect x="40" y="160" width="0" height="30">
+        <animate attributeName="width" values="0;260;260" keyTimes="0;0.5;1" dur="4s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <rect width="880" height="240" rx="16" fill="#0d0d0d"/>
+  <rect width="880" height="240" rx="16" fill="url(#grid)"/>
+  <rect x="1" y="1" width="878" height="238" rx="15" fill="none" stroke="#00BFFF" stroke-width="1.5">
+    <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="0" y="-120" width="880" height="120" fill="url(#scan)">
+    <animate attributeName="y" values="-120;240" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="0 770 120" to="360 770 120" dur="24s" repeatCount="indefinite"/>
+    <circle cx="770" cy="120" r="80" fill="none" stroke="#00BFFF" stroke-opacity="0.22" stroke-dasharray="4 6"/>
+    <circle cx="770" cy="40" r="5" fill="#00BFFF"/>
+  </g>
+
+  <text x="40" y="36" font-size="13" fill="#4FC3F7">&gt; system.init()</text>
+  <text x="40" y="100" font-size="52" font-weight="700" fill="#E1F5FE">PONGSAPAK<tspan fill="#00BFFF">_<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.49;0.5;1" dur="1s" repeatCount="indefinite"/></tspan></text>
+  <text x="40" y="130" font-size="20" fill="#00BFFF">Full-Stack Developer</text>
+
+  <g clip-path="url(#typeclip)">
+    <text x="40" y="182" font-size="18" fill="#4FC3F7">&gt; building cool stuff</text>
+  </g>
+
+  <circle cx="44" cy="216" r="4" fill="#00BFFF">
+    <animate attributeName="opacity" values="1;0.35;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="58" y="220" font-size="13" fill="#607D8B">always learning something new</text>
+</svg>
