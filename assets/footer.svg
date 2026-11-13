@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="56" viewBox="0 0 880 56" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace">
+  <rect x="0.5" y="0.5" width="879" height="55" rx="12" fill="#0d0d0d" stroke="#1B2630"/>
+  <circle cx="28" cy="28" r="5" fill="#00BFFF">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="5;3.500;5" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="46" y="33" font-size="14" fill="#607D8B">online · always learning something new</text>
+  <text x="852" y="33" font-size="14" fill="#4FC3F7" text-anchor="end">$ exit 0<tspan fill="#00BFFF">_<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/></tspan></text>
+</svg>

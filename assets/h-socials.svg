@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="40" viewBox="0 0 880 40" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace">
+  <text x="0" y="26" font-size="18" font-weight="700" fill="#00BFFF">&gt; socials</text>
+  <line x1="0" y1="36" x2="880" y2="36" stroke="#1B2630"/>
+  <line x1="0" y1="36" x2="120" y2="36" stroke="#00BFFF" stroke-width="2">
+    <animate attributeName="x1" values="0;760;0" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="x2" values="120;880;120" dur="6s" repeatCount="indefinite"/>
+  </line>
+</svg>
