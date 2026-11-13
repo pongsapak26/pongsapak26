@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="250" viewBox="0 0 880 250" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace">
+  <!-- whoami card -->
+  <rect x="0.5" y="0.5" width="427" height="249" rx="14" fill="#101820" stroke="#1B2630">
+    <animate attributeName="stroke" values="#1B2630;#00BFFF;#1B2630" dur="5s" repeatCount="indefinite"/>
+  </rect>
+  <text x="32" y="48" font-size="18" font-weight="700" fill="#00BFFF">&gt; whoami</text>
+  <g font-size="14" fill="#CFD8DC" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="0.2s" fill="freeze"/>
+    <text x="32" y="90">Hi, I'm Pongsapak — a dev who builds things</text>
+    <text x="32" y="114">that (sometimes) work on the first try.</text>
+    <text x="32" y="162">Passionate about web, mobile, and whatever's</text>
+    <text x="32" y="186">cool this week.</text>
+  </g>
+  <text x="32" y="228" font-size="14" fill="#00BFFF">$<tspan>
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/> _</tspan></text>
+
+  <!-- languages card -->
+  <rect x="452.5" y="0.5" width="427" height="249" rx="14" fill="#101820" stroke="#1B2630">
+    <animate attributeName="stroke" values="#1B2630;#00BFFF;#1B2630" dur="5s" begin="2.5s" repeatCount="indefinite"/>
+  </rect>
+  <text x="484" y="48" font-size="18" font-weight="700" fill="#00BFFF">&gt; languages</text>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.4s" fill="freeze"/>
+    <rect x="484" y="78" width="130" height="44" rx="10" fill="#0d0d0d" stroke="#FFD600" stroke-opacity="0.5"/>
+    <text x="549" y="106" font-size="15" fill="#FFD600" text-anchor="middle">JavaScript</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.6s" fill="freeze"/>
+    <rect x="626" y="78" width="130" height="44" rx="10" fill="#0d0d0d" stroke="#00BFFF" stroke-opacity="0.5"/>
+    <text x="691" y="106" font-size="15" fill="#4FC3F7" text-anchor="middle">TypeScript</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.8s" fill="freeze"/>
+    <rect x="768" y="78" width="80" height="44" rx="10" fill="#0d0d0d" stroke="#8B93FF" stroke-opacity="0.5"/>
+    <text x="808" y="106" font-size="15" fill="#8B93FF" text-anchor="middle">PHP</text>
+  </g>
+  <text x="484" y="176" font-size="14" fill="#607D8B">Web · Mobile · Whatever is cool this week</text>
+  <circle cx="488" cy="224" r="4" fill="#00BFFF">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="502" y="228" font-size="13" fill="#607D8B">online</text>
+</svg>
