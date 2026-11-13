@@ -1,6 +1,9 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:00BFFF&height=180&section=header&text=PONGSAPAK&fontSize=56&fontColor=E1F5FE&fontAlignY=40&animation=fadeIn&desc=Full-Stack%20Developer&descAlignY=60&descColor=4FC3F7" alt="header" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Building+cool+stuff+%F0%9F%94%A5;Always+learning+something+new+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=%3E+building+cool+stuff+%F0%9F%94%A5;%3E+shipping+things+that+work+%E2%9A%A1;%3E+always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -17,15 +20,17 @@ Passionate about web, mobile, and whatever's
 cool this week.
 ```
 
-### 🌐 Socials
+### `> socials`
 
 [![Facebook](https://img.shields.io/badge/Facebook-%230d0d0d.svg?style=flat-square&logo=Facebook&logoColor=00BFFF)](https://facebook.com/PONGSAPAKNOOF)
 [![Instagram](https://img.shields.io/badge/Instagram-%230d0d0d.svg?style=flat-square&logo=Instagram&logoColor=00BFFF)](https://instagram.com/pongsapakf)
 
-### 💻 Languages
+### `> languages`
 
-![JavaScript](https://img.shields.io/badge/JavaScript-%230d0d0d.svg?style=flat-square&logo=javascript&logoColor=00BFFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-%230d0d0d.svg?style=flat-square&logo=javascript&logoColor=FFD600)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%230d0d0d.svg?style=flat-square&logo=typescript&logoColor=4FC3F7)
-![PHP](https://img.shields.io/badge/PHP-%230d0d0d.svg?style=flat-square&logo=php&logoColor=00BFFF)
+![PHP](https://img.shields.io/badge/PHP-%230d0d0d.svg?style=flat-square&logo=php&logoColor=8B93FF)
 
 <br clear="right"/>
+
+<p align="center"><code>● online · $ exit 0</code></p>
