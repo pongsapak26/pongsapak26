@@ -12,10 +12,4 @@
 <a href="https://instagram.com/pongsapakf"><img src="assets/s-instagram.svg" height="48" alt="Instagram" /></a>
 <a href="https://www.linkedin.com/in/pongsapak-premsumran-696855419/"><img src="assets/s-linkedin.svg" height="48" alt="LinkedIn" /></a>
 
-<img src="assets/h-stats.svg" width="100%" alt="top languages" />
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pongsapak26&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d0d0d&title_color=00BFFF&text_color=4FC3F7&icon_color=00BFFF" width="420" alt="Top languages" />
-</p>
-
 <img src="assets/footer.svg" width="100%" alt="online - always learning something new" />
